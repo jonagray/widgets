@@ -4,7 +4,7 @@ let userName = '';
 
 userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!') ;
 
-const userQuestion = 'Will I get lucky tonight?';
+const userQuestion = '';
 
 let randomNumber = Math.floor(Math.random() * 8);
 
